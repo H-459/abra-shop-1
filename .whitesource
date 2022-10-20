@@ -8,6 +8,11 @@
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
+    
+    
+    
+    
+    
     "useMendCheckNames": true
   },
   "issueSettings": {
