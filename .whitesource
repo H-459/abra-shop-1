@@ -4,26 +4,6 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": []
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
